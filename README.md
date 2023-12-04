@@ -1,6 +1,6 @@
 # Hi there 👋
 
-
+- 🏢 I'm currently studying programming and computer scinence at School 21
 - 🔭 I’m currently working on My Personal Website
 - 🌱 I’m currently learning C++, Go, Python and Data Science
 
