@@ -7,7 +7,7 @@
   Life is Fun!
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,python,flask,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,python,flask,linux,docker,html,css,js)](https://skillicons.dev)
 
 ## Contacts
 Languages: Russian 🇷🇺, English 🇬🇧  
